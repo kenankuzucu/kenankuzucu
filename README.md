@@ -4,7 +4,7 @@
 
 ### Siber Güvenlik · Yazılım Geliştirme · Girişimcilik
 
-**Gaziantep, Türkiye** 🇹🇷
+**Gaziantep, Türkiye** · 🌍
 
 > *“ÖNCE ANLA — SONRA SAVUN.”*
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🇹🇷 Hakkımda &nbsp;·&nbsp; 🇬🇧 About
+## 👤 Hakkımda &nbsp;·&nbsp; About
 
 <table>
 <tr>
