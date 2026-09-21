@@ -67,7 +67,7 @@ myself — learning it, then using it in production.
 | 🛡️ **Siber güvenlik** | Sistem sertleştirme, ağ güvenliği, OSINT, adli bilişim, zararlı yazılım analizi |
 | 💻 **Yazılım geliştirme** | Tek dosya web uygulamaları, PWA (çevrimdışı çalışan), WebView tabanlı Android uygulamaları, Python otomasyonu |
 | ✍️ **İçerik üretimi** | Teknik konuları sıfırdan başlayanın anlayacağı Türkçeye çeviriyorum; her komut denenmiş, her örnek gerçek |
-| 🏪 **İşletme** | ÜSTAD SALON KENAN (Gaziantep) — kurumsal süreçleri dijitalleştiriyorum |
+| 🏪 **İşletme** | Kendi işletmem (erkek kuaförü · Gaziantep) — süreçleri kendim dijitalleştiriyorum |
 
 ---
 
