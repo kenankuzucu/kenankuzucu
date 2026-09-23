@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="profil/madalyon.png" width="190" alt="ÜSTAD KENAN KUZUCU">
+
 # 🛡️ ÜSTAD KENAN KUZUCU
 
 ### Siber Güvenlik · Yazılım Geliştirme · Girişimcilik
