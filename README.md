@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profil/madalyon.png?v=2" width="46%" alt="ÜSTAD KENAN KUZUCU">
+<img src="profil/madalyon.png" width="190" alt="ÜSTAD KENAN KUZUCU">
 
 # 🛡️ ÜSTAD KENAN KUZUCU
 
