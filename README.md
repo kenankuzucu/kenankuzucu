@@ -116,6 +116,63 @@ sıfırdan başlayandan ileri seviyeye kadar 45 bölüm; anlatım + komut + sın
 
 ---
 
+## 📂 Proje kategorileri &nbsp;·&nbsp; Categories
+
+> Depoların tamamı **GitHub Listeleri** olarak da gruplandı: [kategorilere göz at](https://github.com/kenankuzucu?tab=lists)
+
+<table>
+<tr><td valign="top" width="50%">
+
+**🌐 Web Sayfaları**
+
+| Depo | Ne var? |
+|---|---|
+| [ustad-salon-kenan-web](https://github.com/kenankuzucu/ustad-salon-kenan-web) | Gaziantep erkek kuaförü web sitesi + Kuran/radyo |
+| [ustad-kenan-portfolyo](https://github.com/kenankuzucu/ustad-kenan-portfolyo) | Kişisel portfolyo (tek dosyalık HTML) |
+| [hatice-karabas-muhendislik-web-v2-4k](https://github.com/kenankuzucu/hatice-karabas-muhendislik-web-v2-4k) | Kurumsal tanıtım sitesi (yayında) |
+| [mozaikkent-gazetesi](https://github.com/kenankuzucu/mozaikkent-gazetesi) | Kent gazetesi sitesi (statik, çevrimdışı) 🔒 |
+
+</td><td valign="top" width="50%">
+
+**📱 APK Uygulamaları**
+
+| Depo | Ne var? |
+|---|---|
+| [ustad-apk-indir](https://github.com/kenankuzucu/ustad-apk-indir) | Tüm APK indirme merkezi |
+| [ustad-koc-pro](https://github.com/kenankuzucu/ustad-koc-pro) | ÜSTAD KOÇ PRO kaynak kodu 🔒 |
+| [ustad-koc-pro-indir](https://github.com/kenankuzucu/ustad-koc-pro-indir) | KOÇ PRO APK indirme sayfası |
+| [ustad-kpss](https://github.com/kenankuzucu/ustad-kpss) | KPSS soru bankası + konu anlatımı |
+| [ustad-kpss-araclar](https://github.com/kenankuzucu/ustad-kpss-araclar) | Geri sayım, net ve puan hesabı |
+| [ustad-motor](https://github.com/kenankuzucu/ustad-motor) | Sınav koçu çekirdeği 🔒 |
+| [ustad-teleprompter](https://github.com/kenankuzucu/ustad-teleprompter) | Kayan konuşma metni okuyucu |
+
+</td></tr>
+<tr><td valign="top" width="50%">
+
+**🗺️ Gözcü Harita ve Dünya Monitörü**
+
+| Depo | Ne var? |
+|---|---|
+| [ustad-gozcu](https://github.com/kenankuzucu/ustad-gozcu) | 16 katmanlı canlı dünya haritası (uçak, gemi, uydu, deprem) |
+| [ustad-dunya-monitor](https://github.com/kenankuzucu/ustad-dunya-monitor) | 23 sekmeli dünya monitörü (radyo, IPTV, piyasa, şifreli kasa) |
+
+</td><td valign="top" width="50%">
+
+**🛡️ Siber Güvenlik ve Eğitim**
+
+| Depo | Ne var? |
+|---|---|
+| [ustad-siber-egitim](https://github.com/kenankuzucu/ustad-siber-egitim) | 45 bölümlük Türkçe siber güvenlik eğitim platformu |
+| [ustad-siber-akademi](https://github.com/kenankuzucu/ustad-siber-akademi) | Çevrimdışı siber güvenlik akademisi (PWA) |
+| [ustad-kenan-siber-operasyon-merkezi](https://github.com/kenankuzucu/ustad-kenan-siber-operasyon-merkezi) | Beyaz şapka siber savunma paneli |
+| [ustad-osint](https://github.com/kenankuzucu/ustad-osint) | Blue Team SOC konsolu · 49 panel 🔒 |
+| [ustadcyber-com-tr](https://github.com/kenankuzucu/ustadcyber-com-tr) | ustadcyber.com.tr tam kaynak yedeği 🔒 |
+
+</td></tr>
+</table>
+
+---
+
 ## 🧰 Teknoloji ve araç kutusu
 
 <table>
